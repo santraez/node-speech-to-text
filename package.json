@@ -1,0 +1,9 @@
+{
+  "name": "youtube-downloader",
+  "main": "index.js",
+  "author": "santraez",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  }
+}
